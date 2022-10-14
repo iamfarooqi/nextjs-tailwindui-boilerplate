@@ -1,9 +1,9 @@
 import React from 'react';
-import Home from "../../components/landingPage/landingPage";
+import Projects from '../../../components/projects/projects';
 
 const Index = () => {
     return (
-        <Home />
+        <Projects />
     );
 }
 
